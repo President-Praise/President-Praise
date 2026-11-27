@@ -24,12 +24,13 @@ I build tools that solve real problems — from WhatsApp bots that automate supp
 
 | Project | Stack | What I built |
 |---------|-------|-------------|
-| **LandPro** | HTML, Node.js | Verified real estate listings platform for Abuja — title verification badges, escrow, agent-mediated access |
-| **Printeon.co** | Next.js, Prisma, Paystack | Nigeria's editorial print shop — e-commerce storefront + admin dashboard |
+| [**LandPro**](https://test.landpro.group) | HTML, Node.js | Verified real estate listings platform for Abuja — title verification badges, escrow, agent-mediated access |
+| [**Printeon.co**](https://printeon-co.vercel.app) | Next.js, Prisma, Paystack | Nigeria's editorial print shop — e-commerce storefront + admin dashboard |
 | **Chicken Supply Automation** | Node.js, n8n, WhatsApp API | End-to-end WhatsApp lead automation for a poultry supply business |
-| **Ayodeji C'Emeka Ibrahim & Co** | Next.js, TypeScript | Professional website for a Nigerian law firm |
-| **Maj. Gen. Pat Akem-Vingir** | Astro, Tailwind, Supabase | Personal/professional site for a retired Major General |
+| [**Ayodeji C'Emeka Ibrahim & Co**](https://www.ayodejicemekaibrahim.com) | Next.js, TypeScript | Professional website for a Nigerian law firm |
+| [**Maj. Gen. Pat Akem-Vingir**](https://patakemvingir.com) | Astro, Tailwind, Supabase | Personal/professional site for a retired Major General |
 | **Jesus House Abuja** | HTML, Google Drive API | Church declarations library — dynamic content pulled from Google Drive |
+| [**SIWES Platform**](https://siwes.fun) | FastAPI, React, Claude API | Multi-tenant student industrial work experience reporting platform |
 
 ### Tech I work with
 
