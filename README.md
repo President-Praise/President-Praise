@@ -20,6 +20,8 @@ I build tools that solve real problems — from WhatsApp bots that automate supp
 | [Trading Bot](https://github.com/President-Praise/trading-bot) | Crypto trading bot with backtesting, live execution, and Telegram alerts |
 | [Printeon.co](https://github.com/President-Praise/printeon-co) | Nigeria's editorial print shop — Next.js storefront + admin |
 | [BreakFree](https://github.com/President-Praise/breakfree-app) | Mobile app built with Expo & React Native |
+| [Printeon.co](https://github.com/President-Praise/Printeon.co) | Nigeria's editorial print shop — Next.js e-commerce + admin |
+| [Jesus House Abuja](https://github.com/President-Praise/jesus-house-abuja-declarations) | Church declarations library — dynamic content from Google Drive |
 | [Law Firm Site](https://github.com/President-Praise/ayodejicemekaibrahim-nextjs) | Professional site for a Nigerian law firm — Next.js |
 
 ### Tech I work with
