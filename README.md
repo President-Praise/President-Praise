@@ -2,7 +2,7 @@
 
 **Software Engineer & AI Automation Builder** from Nigeria.
 
-I build tools that solve real problems — from WhatsApp bots that automate supply chains to verified real estate platforms. Currently final-year Mechatronics Engineering at the University of Nigeria, Nsukka (First Class, 4.78 CGPA).
+I build tools that solve real problems — from WhatsApp bots that automate supply chains to verified real estate platforms. Currently final-year Mechatronics Engineering at Landmark University (First Class, 4.78 CGPA).
 
 ### What I do
 
