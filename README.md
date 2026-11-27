@@ -11,18 +11,25 @@ I build tools that solve real problems — from WhatsApp bots that automate supp
 - **Mobile** — React Native / Expo
 - **Python Tooling** — Publishing pipelines, trading engines, data platforms
 
-### Featured work
+### Open-source projects
 
 | Project | What it does |
 |---------|-------------|
-| [LandPro](https://github.com/President-Praise/landpro) | Verified real estate listings platform for Abuja — title verification, escrow, agent-mediated access |
-| [Chicken Supply Automation](https://github.com/President-Praise/chicken-supply-whatsapp-automation) | End-to-end WhatsApp lead automation for a poultry business |
 | [Trading Bot](https://github.com/President-Praise/trading-bot) | Crypto trading bot with backtesting, live execution, and Telegram alerts |
-| [Printeon.co](https://github.com/President-Praise/printeon-co) | Nigeria's editorial print shop — Next.js storefront + admin |
-| [BreakFree](https://github.com/President-Praise/breakfree-app) | Mobile app built with Expo & React Native |
-| [Printeon.co](https://github.com/President-Praise/Printeon.co) | Nigeria's editorial print shop — Next.js e-commerce + admin |
-| [Jesus House Abuja](https://github.com/President-Praise/jesus-house-abuja-declarations) | Church declarations library — dynamic content from Google Drive |
-| [Law Firm Site](https://github.com/President-Praise/ayodejicemekaibrahim-nextjs) | Professional site for a Nigerian law firm — Next.js |
+| [BreakFree](https://github.com/President-Praise/breakfree-app) | Mobile app to quit compulsive behaviors — Expo & React Native |
+| [Manuscript to EPUB](https://github.com/President-Praise/pastor-pat-manuscript-to-epub) | Python toolchain that converts raw PDF manuscripts into formatted e-books |
+| [SIWES Platform](https://github.com/President-Praise/siwes-platform) | Multi-tenant student industrial work experience reporting platform |
+
+### Client work (private repos)
+
+| Project | Stack | What I built |
+|---------|-------|-------------|
+| **LandPro** | HTML, Node.js | Verified real estate listings platform for Abuja — title verification badges, escrow, agent-mediated access |
+| **Printeon.co** | Next.js, Prisma, Paystack | Nigeria's editorial print shop — e-commerce storefront + admin dashboard |
+| **Chicken Supply Automation** | Node.js, n8n, WhatsApp API | End-to-end WhatsApp lead automation for a poultry supply business |
+| **Ayodeji C'Emeka Ibrahim & Co** | Next.js, TypeScript | Professional website for a Nigerian law firm |
+| **Maj. Gen. Pat Akem-Vingir** | Astro, Tailwind, Supabase | Personal/professional site for a retired Major General |
+| **Jesus House Abuja** | HTML, Google Drive API | Church declarations library — dynamic content pulled from Google Drive |
 
 ### Tech I work with
 
